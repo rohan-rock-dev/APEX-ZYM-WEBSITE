@@ -1,0 +1,6 @@
+{
+  "name": "Premium Gym Website",
+  "description": "A high-performance premium gym web application with advanced 3D visualizers, smooth animations, membership configurations, and experience portfolios.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
