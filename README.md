@@ -1,8 +1,9 @@
 # APEX — Premium Fitness Center
 Where elite engineering meets human performance.
 
-![Hero Section](<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/c10e3bf5-dd86-4828-aa62-b0d027ad1f35" />
-<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/a3a3fc88-f7da-44ef-8c4c-4bb2d3745b23" />)
+!Hero Section
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/c10e3bf5-dd86-4828-aa62-b0d027ad1f35" />
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/a3a3fc88-f7da-44ef-8c4c-4bb2d3745b23" />
 
 ## About
 
@@ -16,7 +17,7 @@ React · TypeScript · Vite · GSAP · Framer Motion · Tailwind CSS · Three.js
 
 ### Step 1 — Clone the repository
 
-git clone https://github.com/yourusername/apex-gym.git
+git clone https://github.com/rohan-rock-dev/apex-gym.git
 
 ### Step 2 — Navigate into the project folder
 
