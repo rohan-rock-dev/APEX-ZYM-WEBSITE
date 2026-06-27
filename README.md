@@ -1,7 +1,8 @@
 # APEX — Premium Fitness Center
 Where elite engineering meets human performance.
 
-![Hero Section](https://github.com/rohan-rock-dev/APEX-ZYM-WEBSITE/issues/1#issue-4753651999)
+![Hero Section](<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/c10e3bf5-dd86-4828-aa62-b0d027ad1f35" />
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/a3a3fc88-f7da-44ef-8c4c-4bb2d3745b23" />)
 
 ## About
 
