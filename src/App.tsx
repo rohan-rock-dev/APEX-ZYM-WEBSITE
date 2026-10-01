@@ -1334,8 +1334,8 @@ export default function App() {
             </div>
 
             <div className="max-w-7xl mx-auto px-6 border-t border-neutral-200/60 pt-8 flex flex-col md:flex-row items-center justify-between gap-4 text-[10px] md:text-xs text-neutral-500 font-medium tracking-wider">
-              <span>© {new Date().getFullYear()} APEX ATHLETICS LLC. BIOMETRICAL INTEGRATIONS RESERVED.</span>
-              <span>CRAFTED BY THE ELITE FRONTEND TEAM • FULL-STACK SANDBOX</span>
+              <span>© {new Date().getFullYear()} © 2026 Rohan Rock. All Rights Reserved..</span>
+              <span>DESIGNED & BUILT BY ROHAN ROCK</span>
             </div>
           </footer>
 
